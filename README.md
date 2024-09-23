@@ -1,7 +1,7 @@
 # ERP Software Showcase
 
 **Author:** Saurab Dhir  
-**Contact:** [sda105@sfu.ca](mailto:sda105@sfu.ca) | +1(236)-838-3549
+**Contact:** [sda105@sfu.ca](mailto:sda105@sfu.ca)
 
 ## Overview
 
