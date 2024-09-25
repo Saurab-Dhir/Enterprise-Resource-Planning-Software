@@ -3,48 +3,44 @@
 **Author:** Saurab Dhir  
 **Contact:** [sda105@sfu.ca](mailto:sda105@sfu.ca)
 
-## Overview
+## 📽️ Project Overview Video
 
-This repository provides a detailed overview of the features and capabilities of the Enterprise Resource Planning (ERP) software I developed under contract. While the actual source code remains proprietary, this document highlights the core functionalities that were implemented to streamline and optimize business operations.
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-The ERP system is designed to assist companies in managing various critical operations, from customer management to production scheduling, all within a secure and user-friendly interface.
+---
 
-## Key Features
+## 📖 Table of Contents
 
-1. **User Authentication & Authorization**
-   - Secure user login and role-based access control (RBAC) to protect sensitive information and ensure that only authorized personnel have access to specific functionalities.
-   
-2. **Customer Information Management**
-   - A centralized customer database that stores and manages all relevant details, allowing for easy access and updates to customer profiles.
+- [📽️ Project Overview Video](#-project-overview-video)
+- [🔑 Key Features](#-key-features)
+- [📊 Technical Stack](#technical-stack)
+- [📞 Contact Information](#disclaimer)
 
-3. **Tax Management**
-   - Automated tax calculation and management features integrated into the system, ensuring compliance with local and regional tax regulations.
+---
 
-4. **Sales Quotation Generation**
-   - Streamlined process for generating professional and detailed sales quotations for clients, reducing manual work and ensuring consistency in pricing.
+## 🔑 Key Features
 
-5. **Database Management for Tenders**
-   - A robust system for tracking quotes and bids on various tenders, allowing companies to manage and analyze past and current bids for future decision-making.
+### 1. 🔐 User Authentication & Authorization
+![Login Screen](images/login_screen.png)
 
-6. **Scheduling for Purchases & Deliveries**
-   - Intelligent scheduling of purchases and deliveries based on the company's operational capacities, optimizing inventory management and reducing delays.
+### 2. 👥 Customer Information Management
+![Customer Info](images/customer_info.png)
 
-7. **Bill of Materials (BOM)**
-   - A feature to create detailed Bills of Materials for various products, helping teams track the required components for production processes.
+### 3. 💼 Sales Quotation Generation
+![Sales Quotation](images/sales_quotation.gif)
 
-8. **Inventory Tracking**
-   - Comprehensive tracking of all inventory items, whether unfinished, semi-finished, or finished. This ensures transparency and traceability across the production lifecycle.
+---
 
-## Technical Stack
+## 📊 Technical Stack
+- **Frontend:** Angular ![Angular](https://img.shields.io/badge/Frontend-Angular-red)
+- **Backend:** Node.js ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
+- **Database:** MySQL ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 
-The ERP system was built using:
-- **Frontend:** Angular
-- **Backend:** Node.js with Express
-- **Database:** MySQL
-- **API Integration:** Custom REST APIs for third-party integrations, including taxation services.
+---
 
-## Disclaimer
+## 📞 Contact Information
 
-Due to proprietary restrictions, the source code is not available in this repository. This documentation serves solely as a demonstration of the ERP system's capabilities.
+For inquiries or demonstrations, please contact me via email or phone.
 
-For any inquiries, please feel free to reach out.
+---
+
