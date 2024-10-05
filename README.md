@@ -26,6 +26,9 @@
 ### 2. 👥 Customer Information Management
 ![Customer Info](images/customer_info.png)
 
+### 4. 📃 Bill of Materials Generation
+![Sales Quotation](images/BOM_screen.png)
+
 ### 3. 💼 Sales Quotation Generation
 ![Sales Quotation](images/sales_quotation.gif)
 
