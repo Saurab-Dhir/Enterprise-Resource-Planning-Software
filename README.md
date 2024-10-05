@@ -12,7 +12,7 @@
 ## 📖 Table of Contents
 
 - [📽️ Project Overview Video](#-project-overview-video) (To be posted!)
-- [🔃 Work Flow ] (#-work-flow)
+- [🔃 Work Flow ](#-work-flow)
 - [🔑 Key Features](#-key-features)
 - [📊 Technical Stack](#technical-stack)
 - [📞 Contact Information](#disclaimer)
