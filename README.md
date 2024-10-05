@@ -29,7 +29,7 @@
 ![Login Screen](images/login_screen.png)
 
 ### 2. 👥 Customer Information Management
-![Customer Info](images/customer_info.png)
+![Customer Info](images/Customer_screen.png)
 
 ### 4. 📃 Bill of Materials Generation
 ![Sales Quotation](images/BOM_screen.png)
