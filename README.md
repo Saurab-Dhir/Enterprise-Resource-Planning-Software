@@ -11,12 +11,17 @@
 
 ## 📖 Table of Contents
 
-- [📽️ Project Overview Video](#-project-overview-video)
+- [📽️ Project Overview Video](#-project-overview-video) (To be posted!)
+- [🔃 Work Flow ] (#-work-flow)
 - [🔑 Key Features](#-key-features)
 - [📊 Technical Stack](#technical-stack)
 - [📞 Contact Information](#disclaimer)
 
 ---
+
+## 🔃 Work Flow 
+![Work Flow](images/Workflow_ERP.png)
+
 
 ## 🔑 Key Features
 
@@ -30,7 +35,9 @@
 ![Sales Quotation](images/BOM_screen.png)
 
 ### 3. 💼 Sales Quotation Generation
-![Sales Quotation](images/sales_quotation.gif)
+![Sales Quotation](images/Sales_quotation_1.png)
+![Sales Quotation](images/Sales_quotation_2.png)
+
 
 ---
 
@@ -43,7 +50,7 @@
 
 ## 📞 Contact Information
 
-For inquiries or demonstrations, please contact me via email or phone.
+For inquiries or demonstrations, please contact me via email (sda105@sfu.ca).
 
 ---
 
